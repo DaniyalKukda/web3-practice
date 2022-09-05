@@ -4,3 +4,4 @@ node_modules
 SimpleStorage_sol_*
 .notes.md
 .encryptedPrivateKey.json
+.DS_Store
